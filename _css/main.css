@@ -159,3 +159,13 @@ textarea {
 .cb {
 	clear: both;
 }
+/* Specific elements
+======================================= */
+header,main,footer{
+  padding: 0 2em;
+}
+header{
+  border-bottom:1px solid rbg(157,189,198);
+  margin-bottom: 1em;
+  background: rgb(218, 234, 239);
+}
